@@ -2,4 +2,4 @@
 
 0224082 高立恩
 
-[Trello Link](https://trello.com/b/22uOupxz/system-analysis-design)
+[Trello Link](https://trello.com/b/22uOupxz/system-analysis-design _blank)
